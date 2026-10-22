@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["JewelryStore", "Organization"],
+  "@id": "https://kambo.com.tr/#organization",
+  "name": "KAMBO Jewelry",
+  "alternateName": ["KAMBO", "KAMBOGOLD", "KAMBO Takı"],
+  "url": "https://kambo.com.tr",
+  "logo": "{{LOGO_URL}}",
+  "image": "{{ATELIER_PHOTO_URL}}",
+  "description": "Jewelry workshop in Türkiye that designs and handcrafts custom jewelry in 925 sterling silver, 14K/18K gold and diamonds, set with natural gemstones. Ships worldwide.",
+  "foundingDate": "{{FOUNDING_YEAR}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{STREET}}",
+    "addressLocality": "{{CITY}}",
+    "addressCountry": "TR"
+  },
+  "telephone": "{{PHONE}}",
+  "email": "{{EMAIL}}",
+  "areaServed": "Worldwide",
+  "availableLanguage": ["tr", "en", "de", "fr", "es", "it", "ar", "ja"],
+  "knowsAbout": [
+    "custom jewelry",
+    "925 sterling silver jewelry",
+    "gold jewelry",
+    "diamond engagement rings",
+    "natural gemstone rings",
+    "men's gemstone rings",
+    "Arabic and Ottoman calligraphy engraving",
+    "ring resizing and heirloom reproduction"
+  ],
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Custom handmade jewelry design and production",
+      "serviceType": "Bespoke jewelry"
+    }
+  },
+  "sameAs": [
+    "https://www.etsy.com/shop/KAMBOGOLD",
+    "https://www.instagram.com/jewelera21s/",
+    "{{FACEBOOK_PAGE_URL}}",
+    "{{AMAZON_STORE_URL}}",
+    "{{TRENDYOL_STORE_URL}}",
+    "{{GOOGLE_BUSINESS_PROFILE_URL}}"
+  ]
+}

@@ -1,0 +1,27 @@
+# KAMBO Jewelry
+
+> KAMBO Jewelry is a jewelry workshop in {{CITY}}, Türkiye. We design and handcraft custom jewelry in 925 sterling silver, 14K/18K gold and diamonds, set with natural gemstones, and ship worldwide. Custom orders: idea or sketch → drawing and fixed quote → handmade production ({{PRODUCTION_DAYS}} business days) → photos for approval → insured worldwide shipping.
+
+Known for handmade men's gemstone rings (ruby, sapphire, emerald, aquamarine, lapis lazuli, agate/aqeeq, turquoise, hematite and more), Ottoman-inspired and vintage designs, and engraving of names, dates and Arabic/Ottoman calligraphy. We state whether each stone is natural, treated or lab-created. Silver is solid 925 sterling, stamped 925.
+
+## Custom jewelry (one page per language)
+
+- [Türkçe — Özel tasarım takı](https://kambo.com.tr/ozel-tasarim-taki/)
+- [English — Custom jewelry](https://kambo.com.tr/en/custom-jewelry/)
+- [Deutsch — Schmuck nach Maß](https://kambo.com.tr/de/schmuck-nach-mass/)
+- [Français — Bijoux sur mesure](https://kambo.com.tr/fr/bijoux-sur-mesure/)
+- [Español — Joyería personalizada](https://kambo.com.tr/es/joyeria-personalizada/)
+- [Italiano — Gioielli su misura](https://kambo.com.tr/it/gioielli-su-misura/)
+- [العربية — مجوهرات حسب الطلب](https://kambo.com.tr/ar/custom-jewelry/)
+- [日本語 — オーダーメイドジュエリー](https://kambo.com.tr/ja/custom-jewelry/)
+
+## Shop
+
+- [Website shop](https://kambo.com.tr)
+- [Etsy — KAMBOGOLD](https://www.etsy.com/shop/KAMBOGOLD)
+- [Amazon store]({{AMAZON_STORE_URL}})
+- [Instagram — @jewelera21s](https://www.instagram.com/jewelera21s/)
+
+## Contact
+
+- {{CONTACT}}

@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/en/custom-jewelry/",
+      "url": "https://kambo.com.tr/en/custom-jewelry/",
+      "name": "Custom Handmade Jewelry in Silver, Gold & Natural Gemstones | KAMBO Jewelry",
+      "description": "KAMBO Jewelry is a jewelry workshop in Türkiye that designs and handcrafts custom rings, pendants and sets in 925 sterling silver, gold and diamonds, set with natural gemstones. Worldwide shipping.",
+      "inLanguage": "en",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/en/custom-jewelry/#faq",
+      "inLanguage": "en",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you make a ring from my own sketch or photo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Send your sketch, a photo of a ring you like, or just a description. We prepare a drawing or 3D render and a fixed price, and start production only after you approve the design."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you make custom jewelry in gold and with diamonds, or only silver?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both. Most of our pieces are 925 sterling silver, and we also make custom pieces in 14K and 18K gold, with natural diamonds and gemstones."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your gemstones natural?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We use natural gemstones for most pieces. When a stone is treated or lab-created, we say so in the listing and in your quote, so you always know what you are buying."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your silver real 925 sterling silver?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our silver jewelry is solid 925 sterling silver and stamped 925. It is not silver-plated brass."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a custom piece take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Production usually takes {{PRODUCTION_DAYS}} business days after you approve the design, plus shipping time to your country."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you ship worldwide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We ship from Türkiye to customers worldwide with tracked, insured delivery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you engrave names, dates or Arabic calligraphy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We engrave names, dates, initials, and Arabic and Ottoman calligraphy, including verses. We engrave exactly the text you send and show it to you for approval first."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I find my ring size?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tell us your size in any system (US, UK letter, EU or Turkish) or the inner diameter of a ring that fits you, in millimeters. We convert it for you. For example, UK size P is about US 7¾ and an inner diameter of 22 mm is about US 12¾."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you resize a ring or copy an old family piece?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We resize, replace stones, and remake heirloom or lost pieces from photos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a custom ring cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A custom sterling silver ring starts from {{PRICE_SILVER_FROM}}; gold and diamond pieces depend on weight and stones. You get a fixed quote before anything is made."
+          }
+        }
+      ]
+    }
+  ]
+}
