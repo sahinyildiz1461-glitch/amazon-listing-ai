@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/ja/custom-jewelry/",
+      "url": "https://kambo.com.tr/ja/custom-jewelry/",
+      "name": "オーダーメイドジュエリー｜シルバー925・ゴールド・天然石のハンドメイド | KAMBO Jewelry",
+      "description": "トルコの工房KAMBO Jewelry。シルバー925、K14・K18、ダイヤモンドと天然石で作るハンドメイドのオーダーメイドリング・ペンダント。世界中へ発送。",
+      "inLanguage": "ja",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/ja/custom-jewelry/#faq",
+      "inLanguage": "ja",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "自分で描いたスケッチや写真からリングを作ってもらえますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。スケッチ、気に入ったリングの写真、または文章でのご説明だけでも構いません。デザイン画または3Dレンダリングと確定価格をご用意し、デザインをご承認いただいてから制作を始めます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ゴールドやダイヤモンドのオーダーメイドもできますか？シルバーだけですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "どちらも可能です。作品の多くはシルバー925ですが、K14・K18ゴールドや、天然ダイヤモンド・天然石を使ったオーダーメイドも承っています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "使用している石は天然石ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ほとんどの作品に天然石を使用しています。処理石やラボグロウン（人工）の石の場合は、商品ページとお見積もりに明記しますので、何を購入されるのかを常にご確認いただけます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "シルバーは本物のシルバー925ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。当工房のシルバージュエリーは無垢のシルバー925で、925の刻印が入っています。真鍮にシルバーメッキしたものではありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "オーダーメイド作品の制作期間はどのくらいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "デザインご承認後、通常{{PRODUCTION_DAYS}}営業日で制作します。これにお届け先の国までの配送日数が加わります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "日本を含め、海外へ発送できますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。トルコから世界中のお客様へ、追跡・保険付きで発送しています。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "名前や日付、アラビア文字のカリグラフィーを刻印できますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。名前、日付、イニシャル、アラビア文字・オスマン文字のカリグラフィー（詩句や聖句を含む）を刻印します。いただいた文字をそのまま刻印し、事前にご確認いただきます。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "指輪のサイズはどうやって調べればいいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "日本の号数、US、UKのアルファベット表記、EU、トルコのサイズなど、どの規格でもお知らせください。ぴったり合う指輪の内径（mm）でも構いません。こちらで換算します。たとえば UK P は約 US 7¾・EU 56・日本サイズ16号、内径22 mmは約 US 12¾・EU 69・日本サイズ28号に相当します。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "サイズ直しや、古い家族のジュエリーの複製はできますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。サイズ直し、石の交換、受け継がれてきたジュエリーやなくしたジュエリーの写真からの再現を承ります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "オーダーメイドリングの価格はいくらですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "シルバー925のオーダーメイドリングは{{PRICE_SILVER_FROM}}からです。ゴールドやダイヤモンドの作品は重さと石によって異なります。制作前に必ず確定価格のお見積もりをお出しします。"
+          }
+        }
+      ]
+    }
+  ]
+}

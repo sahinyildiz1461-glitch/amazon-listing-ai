@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/es/joyeria-personalizada/",
+      "url": "https://kambo.com.tr/es/joyeria-personalizada/",
+      "name": "Joyería personalizada hecha a mano en plata 925, oro y piedra natural | KAMBO Jewelry",
+      "description": "Taller de joyería en Turquía: anillos, colgantes y juegos personalizados hechos a mano en plata 925, oro y diamantes con piedra natural. Envíos a todo el mundo.",
+      "inLanguage": "es",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/es/joyeria-personalizada/#faq",
+      "inLanguage": "es",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Pueden hacer un anillo a partir de mi propio boceto o foto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Envíanos tu boceto, la foto de un anillo que te guste o simplemente una descripción. Preparamos un dibujo o un render 3D con un precio cerrado y empezamos la fabricación solo cuando apruebas el diseño."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacen joyería personalizada en oro y con diamantes, o solo en plata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ambas cosas. La mayoría de nuestras piezas son de plata 925, y también hacemos piezas personalizadas en oro de 14K y 18K, con diamantes naturales y piedras naturales."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sus piedras son naturales?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usamos piedras naturales en la mayoría de las piezas. Cuando una piedra es tratada o creada en laboratorio, lo indicamos en el anuncio y en tu presupuesto, para que siempre sepas lo que estás comprando."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Su plata es plata 925 auténtica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Nuestra joyería de plata es de plata 925 maciza y lleva el sello 925. No es latón bañado en plata."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tarda una pieza personalizada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La fabricación suele llevar {{PRODUCTION_DAYS}} días hábiles a partir de que apruebas el diseño, más el tiempo de envío a tu país."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacen envíos a todo el mundo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Enviamos desde Turquía a clientes de todo el mundo, con seguimiento y seguro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden grabar nombres, fechas o caligrafía árabe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Grabamos nombres, fechas, iniciales y caligrafía árabe y otomana, incluidos versos. Grabamos exactamente el texto que nos envías y antes te lo mostramos para que lo apruebes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo sé mi talla de anillo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dinos tu talla en cualquier sistema (europea/EU, española, de EE. UU. —la habitual en México—, letra del Reino Unido o turca) o el diámetro interior en milímetros de un anillo que te quede bien, y nosotros hacemos la conversión. La talla europea corresponde a la circunferencia interior en milímetros: por ejemplo, la talla UK P equivale aproximadamente a la US 7¾ y a la EU 56, y un diámetro interior de 22 mm equivale aproximadamente a la US 12¾ y a la EU 69."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Pueden ajustar la talla de un anillo o copiar una joya familiar antigua?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Ajustamos tallas, cambiamos piedras y rehacemos joyas heredadas o perdidas a partir de fotos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta un anillo personalizado?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anillo personalizado de plata 925 cuesta desde {{PRICE_SILVER_FROM}}; el precio de las piezas de oro y con diamantes depende del peso y de las piedras. Recibes un presupuesto cerrado antes de que se fabrique nada."
+          }
+        }
+      ]
+    }
+  ]
+}

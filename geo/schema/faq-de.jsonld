@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/de/schmuck-nach-mass/",
+      "url": "https://kambo.com.tr/de/schmuck-nach-mass/",
+      "name": "Schmuck nach Maß – Ringe aus Silber, Gold & Naturstein | KAMBO",
+      "description": "KAMBO Jewelry, Schmuckatelier in der Türkei – Ringe, Anhänger und Sets nach Maß aus 925er Silber, Gold und Diamanten mit Natursteinen. Weltweiter Versand.",
+      "inLanguage": "de",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/de/schmuck-nach-mass/#faq",
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kann ich einen Ring nach meiner eigenen Skizze oder einem Foto anfertigen lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Schicken Sie uns Ihre Skizze, ein Foto eines Rings, der Ihnen gefällt, oder einfach eine Beschreibung. Wir erstellen eine Zeichnung oder ein 3D-Rendering mit Festpreis und beginnen mit der Fertigung erst, wenn Sie den Entwurf freigegeben haben."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fertigen Sie Schmuck nach Maß auch in Gold und mit Diamanten oder nur in Silber?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beides. Die meisten unserer Stücke sind aus 925er Sterlingsilber; wir fertigen aber auch Schmuck nach Maß in 585er und 750er Gold (14 und 18 Karat) mit natürlichen Diamanten und Edelsteinen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Ihre Edelsteine natürlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für die meisten Stücke verwenden wir natürliche Edelsteine. Ist ein Stein behandelt oder im Labor gezüchtet, steht das in der Produktbeschreibung und in Ihrem Angebot – so wissen Sie immer, was Sie kaufen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Ihr Silber echtes 925er Sterlingsilber?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Unser Silberschmuck ist massives 925er Sterlingsilber und mit 925 gestempelt. Es ist kein versilbertes Messing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert eine Maßanfertigung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Fertigung dauert nach Freigabe des Entwurfs in der Regel {{PRODUCTION_DAYS}} Werktage, zuzüglich der Versandzeit in Ihr Land."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Versenden Sie weltweit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Wir versenden aus der Türkei an Kunden in aller Welt – versichert und mit Sendungsverfolgung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie Namen, Daten oder arabische Kalligrafie gravieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Wir gravieren Namen, Daten, Initialen sowie arabische und osmanische Kalligrafie, auch Verse. Wir gravieren genau den Text, den Sie uns schicken, und legen ihn Ihnen vorher zur Freigabe vor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie finde ich meine Ringgröße heraus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nennen Sie uns Ihre Ringgröße in einem beliebigen System (EU, US, UK-Buchstabe oder türkische Größe) oder den Innendurchmesser eines passenden Rings in Millimetern – wir rechnen sie für Sie um. In Deutschland ist die EU-Ringgröße üblich, also der Innenumfang in Millimetern. Beispiel: UK P entspricht etwa US 7¾ bzw. EU 56, ein Innendurchmesser von 22 mm etwa US 12¾ bzw. EU 69."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie die Ringgröße ändern oder ein altes Familienstück nachfertigen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Wir ändern Ringgrößen, ersetzen Steine und fertigen Erbstücke oder verlorene Schmuckstücke nach Fotos neu an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Ring nach Maß?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Silberring nach Maß aus 925er Sterlingsilber kostet ab {{PRICE_SILVER_FROM}}; bei Gold- und Diamantschmuck hängt der Preis von Gewicht und Steinen ab. Sie erhalten immer einen Festpreis, bevor etwas gefertigt wird."
+          }
+        }
+      ]
+    }
+  ]
+}

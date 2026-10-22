@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/it/gioielli-su-misura/",
+      "url": "https://kambo.com.tr/it/gioielli-su-misura/",
+      "name": "Gioielli su misura fatti a mano in argento 925, oro e pietre naturali | KAMBO Jewelry",
+      "description": "Laboratorio orafo in Turchia: anelli, ciondoli e parure su misura fatti a mano in argento 925, oro e diamanti con pietre naturali. Spedizione in tutto il mondo.",
+      "inLanguage": "it",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/it/gioielli-su-misura/#faq",
+      "inLanguage": "it",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Potete realizzare un anello partendo da un mio schizzo o da una foto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Inviaci il tuo schizzo, la foto di un anello che ti piace o semplicemente una descrizione. Prepariamo un disegno o un render 3D con un prezzo fisso e avviamo la produzione solo dopo che hai approvato il progetto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Realizzate gioielli su misura anche in oro e con diamanti, o solo in argento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entrambi. La maggior parte dei nostri gioielli è in argento 925, ma realizziamo su misura anche pezzi in oro 14 kt e 18 kt, con diamanti naturali e pietre naturali."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le vostre pietre sono naturali?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Per la maggior parte dei gioielli usiamo pietre naturali. Quando una pietra è trattata o creata in laboratorio, lo indichiamo nell'inserzione e nel preventivo, così sai sempre cosa stai acquistando."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il vostro argento è vero argento 925?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. I nostri gioielli in argento sono in argento 925 massiccio e punzonati 925. Non sono in ottone placcato argento."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo serve per un gioiello su misura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La produzione richiede di solito {{PRODUCTION_DAYS}} giorni lavorativi dall'approvazione del progetto, più i tempi di spedizione verso il tuo Paese."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Spedite in tutto il mondo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Spediamo dalla Turchia a clienti in tutto il mondo, con consegna tracciata e assicurata."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Potete incidere nomi, date o calligrafia araba?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Incidiamo nomi, date, iniziali e calligrafia araba e ottomana, compresi versetti. Incidiamo esattamente il testo che ci invii e prima te lo mostriamo per l'approvazione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come trovo la mia misura dell'anello?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Indicaci la tua misura in qualsiasi sistema (europea/EU, italiana, americana/US, lettera UK o turca) oppure il diametro interno in millimetri di un anello che ti sta bene: alla conversione pensiamo noi. La misura europea corrisponde alla circonferenza interna in millimetri; ad esempio, la misura UK P corrisponde circa alla US 7¾ e alla EU 56, e un diametro interno di 22 mm corrisponde circa alla US 12¾ e alla EU 69."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Potete modificare la misura di un anello o copiare un vecchio gioiello di famiglia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Modifichiamo la misura, sostituiamo le pietre e rifacciamo gioielli di famiglia o pezzi perduti partendo da foto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un anello su misura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un anello personalizzato in argento 925 parte da {{PRICE_SILVER_FROM}}; per i gioielli in oro e con diamanti il prezzo dipende da peso e pietre. Ricevi un preventivo a prezzo fisso prima di qualsiasi lavorazione."
+          }
+        }
+      ]
+    }
+  ]
+}

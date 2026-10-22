@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/ozel-tasarim-taki/",
+      "url": "https://kambo.com.tr/ozel-tasarim-taki/",
+      "name": "Özel Tasarım Takı ve Yüzük – Gümüş, Altın, Doğal Taş | KAMBO",
+      "description": "Kişiye özel takı atölyesi KAMBO Jewelry, Türkiye'de 925 ayar gümüş, altın ve pırlantadan doğal taşlı yüzük, kolye ve setleri el yapımı üretir. Dünyaya kargo.",
+      "inLanguage": "tr",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/ozel-tasarim-taki/#faq",
+      "inLanguage": "tr",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kendi çizimime veya bir fotoğrafa göre özel tasarım yüzük yaptırabilir miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Eskizinizi, beğendiğiniz bir yüzüğün fotoğrafını ya da sadece bir tarifini gönderin. Size bir çizim veya 3D görsel ile sabit bir fiyat hazırlıyoruz; üretime yalnızca siz tasarımı onayladıktan sonra başlıyoruz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sadece gümüş mü, yoksa altın ve pırlantalı kişiye özel takı da yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İkisini de yapıyoruz. Parçalarımızın çoğu 925 ayar gümüştür; bunun yanında 14 ve 18 ayar altından, doğal pırlanta ve doğal taşlarla özel tasarım takılar da üretiyoruz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kullandığınız taşlar doğal mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parçaların çoğunda doğal taş kullanıyoruz. Bir taş işlem görmüşse ya da laboratuvarda üretilmişse bunu ürün açıklamasında ve size verdiğimiz teklifte belirtiyoruz; böylece ne satın aldığınızı her zaman bilirsiniz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gümüşünüz gerçek 925 ayar gümüş mü?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Gümüş takılarımız som 925 ayar gümüştür ve 925 damgası taşır. Gümüş kaplama pirinç değildir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Özel tasarım bir takı ne kadar sürede hazırlanır?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tasarımı onayladıktan sonra üretim genellikle {{PRODUCTION_DAYS}} iş günü sürer; buna bulunduğunuz ülkeye kargo süresi eklenir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yurt dışına gönderim yapıyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Türkiye'den dünyanın her yerine takipli ve sigortalı gönderim yapıyoruz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "İsim, tarih veya Arapça hat işleyebilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. İsim, tarih, harf ile ayetler dahil Arapça ve Osmanlıca hat işliyoruz. Gönderdiğiniz metni birebir işliyor ve önce onayınıza sunuyoruz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yüzük ölçümü nasıl öğrenebilirim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ölçünüzü herhangi bir sistemde (Türk ölçüsü, US, UK harf ölçüsü veya EU) ya da size tam olan bir yüzüğün milimetre cinsinden iç çapını bize iletin; dönüşümü biz yaparız. Örneğin UK P ölçüsü yaklaşık US 7¾, Türk ölçüsüyle 16 ve EU 56'dır; 22 mm iç çap ise yaklaşık US 12¾, Türk ölçüsüyle 29 ve EU 69'dur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Yüzük ölçüsünü değiştirebilir veya eski bir aile takısının kopyasını yapabilir misiniz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Yüzük ölçüsünü değiştiriyor, taş değişimi yapıyor ve aile yadigârı ya da kaybolmuş parçaları fotoğraflardan yeniden üretiyoruz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Özel tasarım bir yüzüğün fiyatı nedir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Özel tasarım gümüş yüzüklerde başlangıç fiyatı {{PRICE_SILVER_FROM}}; altın ve pırlantalı parçaların fiyatı ağırlığa ve taşlara göre değişir. Hiçbir şey üretilmeden önce sabit bir fiyat teklifi alırsınız."
+          }
+        }
+      ]
+    }
+  ]
+}

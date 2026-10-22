@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/fr/bijoux-sur-mesure/",
+      "url": "https://kambo.com.tr/fr/bijoux-sur-mesure/",
+      "name": "Bijoux sur mesure faits main en argent 925, or et pierres | KAMBO",
+      "description": "Atelier KAMBO Jewelry en Turquie – bagues, pendentifs et parures sur mesure faits main en argent 925, or et diamants, pierres naturelles. Envoi mondial.",
+      "inLanguage": "fr",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/fr/bijoux-sur-mesure/#faq",
+      "inLanguage": "fr",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous réaliser une bague personnalisée d'après mon croquis ou une photo ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Envoyez-nous votre croquis, la photo d'une bague qui vous plaît ou simplement une description. Nous préparons un dessin ou un rendu 3D avec un prix ferme, et ne lançons la fabrication qu'après votre validation du design."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faites-vous des bijoux sur mesure en or et avec diamants, ou seulement en argent ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les deux. La plupart de nos bijoux sont en argent 925, et nous réalisons aussi des pièces sur mesure en or 14 et 18 carats, avec des diamants et des pierres naturelles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vos pierres sont-elles naturelles ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous utilisons des pierres naturelles pour la plupart de nos bijoux. Lorsqu'une pierre est traitée ou créée en laboratoire, nous le précisons dans la fiche produit et dans votre devis : vous savez toujours ce que vous achetez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Votre argent est-il du véritable argent 925 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nos bijoux en argent sont en argent 925 massif et poinçonnés 925. Ce n'est pas du laiton argenté."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est le délai pour un bijou sur mesure ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La fabrication prend généralement {{PRODUCTION_DAYS}} jours ouvrés après validation du design, auxquels s'ajoute le délai de livraison vers votre pays."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Livrez-vous dans le monde entier ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nous expédions depuis la Turquie vers le monde entier, en envoi suivi et assuré."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous graver des prénoms, des dates ou de la calligraphie arabe ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nous gravons prénoms, dates, initiales, ainsi que la calligraphie arabe et ottomane, versets compris. Nous gravons exactement le texte que vous nous envoyez et vous le soumettons d'abord pour validation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment connaître ma taille de bague ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Indiquez-nous votre taille dans n'importe quel système (européenne, US, lettre UK ou turque) ou le diamètre intérieur, en millimètres, d'une bague qui vous va : nous faisons la conversion. En France, on utilise la taille européenne, qui correspond à la circonférence intérieure de la bague en millimètres. Par exemple, la taille UK P correspond à environ US 7¾ et EU 56, et un diamètre intérieur de 22 mm à environ US 12¾ et EU 69."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous mettre une bague à taille ou reproduire un ancien bijou de famille ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nous mettons les bagues à taille, remplaçons les pierres et refaisons d'après photos des bijoux de famille ou des bijoux perdus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte une bague sur mesure ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Une bague sur mesure en argent 925 est proposée à partir de {{PRICE_SILVER_FROM}} ; pour l'or et les diamants, le prix dépend du poids et des pierres. Vous recevez un devis ferme avant toute fabrication."
+          }
+        }
+      ]
+    }
+  ]
+}
