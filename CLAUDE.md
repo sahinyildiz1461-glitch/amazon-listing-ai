@@ -14,3 +14,5 @@ Kullanıcı (Şahin), 5 Kasım 2026'da şu kuralı bütün oturumlar için koydu
 
 - Yüzük ölçüsü: müşteriye yalnızca **kuyumcuda ölçtürmesi** önerilir. Yedek yöntem, iyi oturan bir yüzüğün iç çapını mm olarak ölçmek. Kâğıt şerit veya ip ile parmak çevresi ölçme yöntemi önerilmez.
 - Sitedeki canlı sayfalar (Shopify, 17 dil) bu repodaki `geo/` taslaklarından sonra güncellendi. Güncel metin için kaynak sitedir; `geo/` ilk taslak olarak kalır.
+- Ölçü değişimi: yüzük küçültülüp büyütülmez. Standart üründe müşteri ürünü kendi ülkesindeki KAMBO deposuna gönderir, yeni ölçüde yenisi gönderilir. Standart ürünlerde iade süresi 14 gün.
+- Kişiselleştirme / özel tasarım: müşteri sipariş vermeden önce WhatsApp veya e-posta ile iletişime geçer. Fiyat maden, taş (doğal/doğal değil), yazı/resim ve detaylara göre teklif olarak verilir. Sitedeki siparişler fotoğraftaki standart ürün olarak gönderilir. Kişiselleştirilmiş ürünlerde iade ve ölçü değişimi yoktur.
