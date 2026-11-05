@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/pages/ring-size-guide",
+      "name": "Yüzük Ölçüsü Nasıl Bulunur? Yüzük Ölçü Tablosu | KAMBO Jewelry",
+      "description": "Yüzük ölçünüzü evde bulun; Amerikan, Türk, Avrupa, İngiliz ve Japon ölçüleri arasında çevirin. İç çap ve çevre (mm) içeren tam ölçü tablosu.",
+      "inLanguage": "tr",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/pages/ring-size-guide#faq",
+      "inLanguage": "tr",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "İngiliz harf yüzük ölçüsü Amerikan ölçüsüne nasıl çevrilir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İngiliz harfleri, Amerikan yarım ölçülerinin arasında yer alır. \"½\" içeren bir harf tam olarak bir Amerikan ölçüsüne karşılık gelir (UK N½ = US 7, UK P½ = US 8); \"½\" içermeyen bir harf ise yaklaşık çeyrek ölçü küçüktür (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "22 mm iç çap kaç numara yüzük eder?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "22 mm iç çap yaklaşık 69 mm çevreye denk gelir. Bu da kabaca US 12¾, Avrupa 69, Türk ölçüsüyle 29 ve Japon ölçüsüyle 29 numaradır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Türk yüzük ölçüsü nasıl hesaplanır?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Türk yüzük ölçüsü, milimetre cinsinden iç çevreden 40 çıkarılarak bulunur. Örneğin iç çevresi 56 mm olan bir yüzük Türk ölçüsüyle 16 numaradır ve yaklaşık US 7½ ölçüsüne denk gelir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Avrupa ve Amerikan yüzük ölçüleri arasındaki fark nedir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Avrupa ölçüsü doğrudan milimetre cinsinden iç çevredir; Amerikan ölçüsü ise kendine özgü bir numara skalası kullanır. Avrupa 54 yaklaşık US 7, Avrupa 57 yaklaşık US 8, Avrupa 62 ise yaklaşık US 10 ölçüsüne karşılık gelir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Geniş bir yüzükte ölçüyü büyütmem gerekir mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. 8 mm veya daha geniş yüzüklerde yaklaşık yarım Amerikan ölçüsü büyük seçin; geniş yüzük parmağın daha büyük bir kısmını kapladığı için daha sıkı hissettirir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "KAMBO her ölçüde yüzük yapabilir mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. KAMBO Jewelry her yüzüğü Türkiye'de siparişe özel olarak el işçiliğiyle üretir; bu sayede çeyrek ölçüler ve büyük erkek ölçüleri dahil her ölçüde yüzük yapabiliriz. Ölçünüzü herhangi bir sistemde ya da iç çapı mm cinsinden bize gönderin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amerikan 7 numara yüzük kaç Türk ölçüsüdür?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tabloya göre US 7, Türk ölçüsüyle 14 numaradır (Avrupa 54, iç çap 17,3 mm, çevre 54,4 mm). US 8 ise Türk ölçüsüyle 17 numaraya denk gelir."
+          }
+        }
+      ]
+    }
+  ]
+}

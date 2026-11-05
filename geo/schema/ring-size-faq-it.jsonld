@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/it/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/it/pages/ring-size-guide",
+      "name": "Misura anello: come trovarla e tabella misure | KAMBO Jewelry",
+      "description": "Trova la misura del tuo anello a casa e convertila tra taglie USA, UK, europee, turche e giapponesi. Tabella misure anelli con diametro e circonferenza in mm.",
+      "inLanguage": "it",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/it/pages/ring-size-guide#faq",
+      "inLanguage": "it",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Come si converte una misura anello inglese (a lettere) in misura USA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le lettere britanniche si collocano tra le mezze misure USA. Una lettera con «½» corrisponde esattamente a una misura USA (UK N½ = US 7, UK P½ = US 8), mentre una lettera senza «½» è circa un quarto di misura più piccola (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che misura di anello corrisponde a 22 mm di diametro interno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un diametro interno di 22 mm corrisponde a circa 69 mm di circonferenza, cioè all’incirca US 12¾, EU 69, misura turca 29 e misura giapponese 29."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Come si calcolano le misure turche degli anelli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La misura turca è la circonferenza interna in millimetri meno 40. Per esempio, un anello con 56 mm di circonferenza ha misura turca 16, che corrisponde circa a US 7½."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che differenza c’è tra le misure europee e quelle americane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La misura europea è semplicemente la circonferenza interna in millimetri, mentre quella USA segue una propria scala numerica. EU 54 corrisponde circa a US 7, EU 57 a US 8 ed EU 62 a US 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Per un anello largo devo prendere una misura in più?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Per fasce larghe 8 mm o più, scegli circa mezza misura USA in più, perché un anello largo copre una parte maggiore del dito e risulta più stretto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "KAMBO può realizzare un anello di qualsiasi misura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. KAMBO Jewelry realizza a mano ogni anello su ordinazione in Turchia, quindi possiamo creare qualsiasi misura, compresi i quarti di misura e le misure grandi da uomo. Inviaci la tua misura in qualsiasi sistema oppure il diametro interno in mm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il mio anello ha un diametro interno di 17 mm: che misura è?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Secondo la tabella, 17 mm di diametro interno si trovano tra US 6½ (16,9 mm, EU 53) e US 7 (17,3 mm, EU 54). Se sei tra due misure, scegli quella più grande."
+          }
+        }
+      ]
+    }
+  ]
+}

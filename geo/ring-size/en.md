@@ -69,7 +69,7 @@ Values are rounded. Turkish and Japanese sizes both equal the circumference in m
 ## Frequently asked questions
 
 ### How do I convert a UK letter ring size to a US size?
-UK letters sit between US half sizes. A letter with "½" matches a US half size (UK N½ = US 7, UK P½ = US 8), and a plain letter is about a quarter size smaller (UK P ≈ US 7¾, UK R ≈ US 8¾).
+UK letters sit between US half sizes. A letter with "½" matches a US size exactly (UK N½ = US 7, UK P½ = US 8), and a plain letter is about a quarter size smaller (UK P ≈ US 7¾, UK R ≈ US 8¾).
 
 ### What ring size is 22 mm inner diameter?
 A 22 mm inner diameter is about 69 mm in circumference. That is roughly US 12¾, EU 69, Turkish 29 and Japanese 29.

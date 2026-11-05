@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/es/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/es/pages/ring-size-guide",
+      "name": "Medir talla de anillo y tabla de tallas | KAMBO Jewelry",
+      "description": "Mide tu talla de anillo en casa y conviértela entre tallas de EE. UU., Reino Unido, Europa, Turquía y Japón. Tabla con diámetro y circunferencia en mm.",
+      "inLanguage": "es",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/es/pages/ring-size-guide#faq",
+      "inLanguage": "es",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cómo convierto una talla de anillo británica (con letra) a talla de EE. UU.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las letras británicas quedan entre las medias tallas de EE. UU. Una letra con «½» equivale exactamente a una talla de EE. UU. (UK N½ = US 7, UK P½ = US 8), y una letra sin «½» es aproximadamente un cuarto de talla menor (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué talla de anillo corresponde a 22 mm de diámetro interior?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un diámetro interior de 22 mm equivale a unos 69 mm de circunferencia. Eso es aproximadamente US 12¾, EU 69, talla turca 29 y talla japonesa 29."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo se calculan las tallas de anillo turcas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La talla turca es la circunferencia interior en milímetros menos 40. Por ejemplo, un anillo de 56 mm de circunferencia es la talla turca 16, que equivale aproximadamente a US 7½."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuál es la diferencia entre las tallas de anillo europeas y las de EE. UU.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La talla europea es simplemente la circunferencia interior en milímetros, mientras que la de EE. UU. sigue su propia escala numérica. EU 54 equivale aproximadamente a US 7, EU 57 a US 8 y EU 62 a US 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Debo pedir una talla más si el anillo es ancho?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Para aros de 8 mm de ancho o más, elige aproximadamente media talla de EE. UU. más, porque un anillo ancho cubre más parte del dedo y se siente más ajustado."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede KAMBO hacer un anillo en cualquier talla?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. KAMBO Jewelry fabrica a mano cada anillo por encargo en Turquía, así que podemos hacer cualquier talla, incluidos cuartos de talla y tallas grandes de hombre. Envíanos tu talla en cualquier sistema o el diámetro interior en mm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto mide en milímetros la talla 7 de EE. UU.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Según la tabla, la talla 7 de EE. UU. tiene un diámetro interior de 17.3 mm y una circunferencia de 54.4 mm, lo que equivale a EU 54, UK N½, talla turca 14 y talla japonesa 14."
+          }
+        }
+      ]
+    }
+  ]
+}

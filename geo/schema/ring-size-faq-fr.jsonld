@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/fr/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/fr/pages/ring-size-guide",
+      "name": "Taille de bague : mesurer et convertir | KAMBO Jewelry",
+      "description": "Mesurez votre tour de doigt chez vous et convertissez votre taille de bague (US, UK, EU, Turquie, Japon). Tableau de conversion avec diamètre et tour en mm.",
+      "inLanguage": "fr",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/fr/pages/ring-size-guide#faq",
+      "inLanguage": "fr",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment convertir une taille de bague anglaise (en lettres) en taille américaine ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les lettres britanniques se placent entre les demi-tailles américaines. Une lettre avec « ½ » correspond exactement à une taille US (UK N½ = US 7, UK P½ = US 8), et une lettre sans « ½ » est environ un quart de taille plus petite (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle taille de bague pour un diamètre intérieur de 22 mm ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un diamètre intérieur de 22 mm correspond à environ 69 mm de tour de doigt, soit à peu près US 12¾, EU 69, taille turque 29 et taille japonaise 29."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment calcule-t-on les tailles de bague turques ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La taille turque correspond au tour intérieur en millimètres moins 40. Par exemple, une bague de 56 mm de tour a une taille turque 16, soit environ US 7½."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la différence entre les tailles de bague européennes et américaines ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La taille européenne est simplement le tour intérieur en millimètres, alors que la taille américaine suit sa propre échelle. La taille 54 correspond environ à US 7, la 57 à US 8 et la 62 à US 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il prendre une taille au-dessus pour une bague large ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Pour un anneau de 8 mm de large ou plus, prenez environ une demi-taille US au-dessus, car une bague large couvre une plus grande partie du doigt et serre davantage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "KAMBO peut-il fabriquer une bague dans n’importe quelle taille ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. KAMBO Jewelry fabrique chaque bague à la main et sur commande en Turquie : nous pouvons donc réaliser toutes les tailles, y compris les quarts de taille et les grandes tailles pour homme. Envoyez-nous votre taille, dans n’importe quel système, ou le diamètre intérieur en mm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Je fais du 54 en France : quelle est ma taille de bague américaine ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dans le tableau, la taille européenne 54 correspond à US 7, soit UK N½, taille turque 14 et taille japonaise 14, pour un diamètre intérieur de 17,3 mm et un tour de doigt de 54,4 mm."
+          }
+        }
+      ]
+    }
+  ]
+}

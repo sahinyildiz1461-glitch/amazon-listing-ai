@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/de/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/de/pages/ring-size-guide",
+      "name": "Ringgröße messen & Ringgrößentabelle | KAMBO Jewelry",
+      "description": "Ringgröße zu Hause messen und umrechnen: US, UK, EU, türkische und japanische Größen. Ringgrößentabelle mit Innendurchmesser und Umfang in mm.",
+      "inLanguage": "de",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/de/pages/ring-size-guide#faq",
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie rechne ich eine britische Ringgröße (Buchstabe) in eine US-Größe um?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "UK-Buchstaben liegen zwischen den US-Halbgrößen. Ein Buchstabe mit „½“ entspricht genau einer US-Größe (UK N½ = US 7, UK P½ = US 8), ein Buchstabe ohne „½“ ist etwa eine Viertelgröße kleiner (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Ringgröße hat ein Ring mit 22 mm Innendurchmesser?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Innendurchmesser von 22 mm entspricht etwa 69 mm Umfang. Das ist ungefähr US 12¾, EU 69, türkisch 29 und japanisch 29."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie werden türkische Ringgrößen berechnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die türkische Ringgröße ist der Innenumfang in Millimetern minus 40. Ein Ring mit 56 mm Umfang hat zum Beispiel die türkische Größe 16, das entspricht etwa US 7½."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen EU- und US-Ringgrößen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die EU-Größe ist einfach der Innenumfang in Millimetern, die US-Größe folgt einer eigenen Zahlenskala. EU 54 entspricht etwa US 7, EU 57 etwa US 8 und EU 62 etwa US 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sollte ich bei einem breiten Ring eine größere Ringgröße wählen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Bei Ringen ab 8 mm Breite wählen Sie etwa eine halbe US-Größe größer, denn ein breiter Ring bedeckt mehr vom Finger und sitzt dadurch enger."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann KAMBO einen Ring in jeder Größe anfertigen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. KAMBO Jewelry fertigt jeden Ring auf Bestellung in Handarbeit in der Türkei, daher können wir jede Größe herstellen, auch Viertelgrößen und große Herrengrößen. Senden Sie uns Ihre Größe in einem beliebigen System oder den Innendurchmesser in mm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Ringgröße habe ich, wenn mein Ring 18 mm Innendurchmesser hat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laut Tabelle liegen 18 mm Innendurchmesser zwischen US 7½ (17,7 mm) und US 8 (18,1 mm). Das entspricht etwa EU 57, also Ringgröße 57; liegen Sie zwischen zwei Größen, wählen Sie die größere."
+          }
+        }
+      ]
+    }
+  ]
+}

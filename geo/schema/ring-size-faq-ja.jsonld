@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/ja/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/ja/pages/ring-size-guide",
+      "name": "指輪サイズの測り方・リングサイズ換算表｜KAMBO Jewelry",
+      "description": "指輪のサイズを自宅で測る方法と、号数・US・UK・EU・トルコのリングサイズ換算表。内径と内周（mm）も掲載しています。",
+      "inLanguage": "ja",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/ja/pages/ring-size-guide#faq",
+      "inLanguage": "ja",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "イギリスのアルファベット表記の指輪サイズをUSサイズに換算するには？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "UKのアルファベット表記は、USのハーフサイズの間に位置します。「½」付きの表記はUSサイズとちょうど一致し（UK N½＝US 7、UK P½＝US 8）、「½」なしの表記はおよそ1/4サイズ小さくなります（UK P≈US 7¾、UK R≈US 8¾）。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "内径22mmの指輪は何号ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "内径22mmは内周約69mmです。おおよそUS 12¾、EU 69、トルコサイズ29、日本の29号にあたります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "トルコの指輪サイズはどのように計算しますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "トルコサイズは、内周（mm）から40を引いた数です。たとえば内周56mmの指輪はトルコサイズ16で、およそUS 7½にあたります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "ヨーロッパサイズとUSサイズの違いは何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ヨーロッパサイズは内周をミリで表した数値ですが、USサイズは独自の番号体系です。EU 54はおよそUS 7、EU 57はおよそUS 8、EU 62はおよそUS 10です。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "幅の広い指輪はサイズを上げたほうがいいですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。幅8mm以上の指輪は、USサイズでハーフサイズほど大きめを選んでください。幅の広い指輪は指を覆う面積が大きいため、きつく感じやすくなります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "KAMBOではどんなサイズでも作れますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。KAMBO Jewelryはすべての指輪をトルコで受注生産し、手作業で仕上げているため、クォーターサイズやメンズの大きなサイズを含め、どんなサイズでもお作りできます。サイズはどの国の表記でも、内径（mm）でもお知らせください。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "日本の号数はUSサイズで何号にあたりますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "換算表では、日本の13号はUS 6½（内径16.9mm、内周53.1mm、EU 53）にあたります。同じく9号はUS 5、16号はUS 7½が目安です。"
+          }
+        }
+      ]
+    }
+  ]
+}
