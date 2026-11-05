@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kambo.com.tr/pages/ring-size-guide",
+      "url": "https://kambo.com.tr/pages/ring-size-guide",
+      "name": "Ring Size Guide & International Size Converter | KAMBO Jewelry",
+      "description": "Find your ring size at home and convert it between US, UK, EU, Turkish and Japanese sizes. Full chart with inner diameter and circumference in mm.",
+      "inLanguage": "en",
+      "about": {
+        "@id": "https://kambo.com.tr/#organization"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://kambo.com.tr/pages/ring-size-guide#faq",
+      "inLanguage": "en",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I convert a UK letter ring size to a US size?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "UK letters sit between US half sizes. A letter with \"½\" matches a US half size (UK N½ = US 7, UK P½ = US 8), and a plain letter is about a quarter size smaller (UK P ≈ US 7¾, UK R ≈ US 8¾)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What ring size is 22 mm inner diameter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 22 mm inner diameter is about 69 mm in circumference. That is roughly US 12¾, EU 69, Turkish 29 and Japanese 29."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are Turkish ring sizes calculated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Turkish ring size is the inner circumference in millimeters minus 40. For example, a ring with a 56 mm circumference is Turkish size 16, which is about US 7½."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between EU and US ring sizes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The EU size is simply the inner circumference in millimeters, while the US size follows its own number scale. EU 54 is about US 7, EU 57 is about US 8, and EU 62 is about US 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I size up for a wide ring?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. For bands 8 mm or wider, choose about half a US size larger, because a wide ring covers more of the finger and feels tighter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can KAMBO make a ring in any size?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. KAMBO Jewelry handcrafts every ring to order in Türkiye, so we can make any size, including quarter sizes and large men's sizes. Send your size in any system or the inner diameter in mm."
+          }
+        }
+      ]
+    }
+  ]
+}

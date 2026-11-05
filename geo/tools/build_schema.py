@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Build JSON-LD (FAQPage + WebPage) for each atelier page in geo/atelier/*.md.
+"""Build JSON-LD (FAQPage + WebPage) for each page in geo/atelier/*.md and
+geo/ring-size/*.md.
 
 Usage: python3 geo/tools/build_schema.py
-Writes geo/schema/faq-<lang>.jsonld. Pages with unfilled {{PLACEHOLDER}}s
+Writes geo/schema/faq-<lang>.jsonld (atelier) and
+geo/schema/ring-size-faq-<lang>.jsonld. Pages with unfilled {{PLACEHOLDER}}s
 are still built, but the placeholders are reported so they get filled first.
 """
 import json
@@ -61,11 +63,13 @@ def build(front, faqs):
 def main():
     out_dir = ROOT / "schema"
     out_dir.mkdir(exist_ok=True)
-    for page in sorted((ROOT / "atelier").glob("*.md")):
+    pages = [("faq-", p) for p in sorted((ROOT / "atelier").glob("*.md"))]
+    pages += [("ring-size-faq-", p) for p in sorted((ROOT / "ring-size").glob("*.md"))]
+    for prefix, page in pages:
         md = page.read_text(encoding="utf-8")
         front, faqs = parse(md)
         data = build(front, faqs)
-        out = out_dir / f"faq-{front['lang']}.jsonld"
+        out = out_dir / f"{prefix}{front['lang']}.jsonld"
         out.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         todo = sorted(set(re.findall(r"\{\{(\w+)\}\}", md)))
         print(f"{out.relative_to(ROOT)}: {len(faqs)} FAQ" + (f"  | doldurulacak: {', '.join(todo)}" if todo else ""))
